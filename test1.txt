@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is A62B-640C
+
+ Directory of C:\Users\ADMIN\Desktop\My project1
+
+11/09/2018  11:41 PM    <DIR>          .
+11/09/2018  11:41 PM    <DIR>          ..
+11/09/2018  11:41 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  253,879,107,584 bytes free
